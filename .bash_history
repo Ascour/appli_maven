@@ -20,3 +20,29 @@ cd
 cd Desktop
 cd /home/youyou/Desktop
 mkdir maven_app
+git init
+git add
+git add .
+git commit –m « first commit Maven project »
+git init 
+git add README.md
+git commit -m "first commit"
+git config --global user.email ascoury@outlook.com
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ascour/appli_maven.git
+git push -u origin main
+systemctl status jenkins
+systemctl start jenkins
+systemctl status jenkins
+systemctl status tomcat9
+systemctl stop tomcat9
+systemctl status tomcat9
+systemctl disable tomcat9
+systemctl status tomcat9
+sudo apt-get purge tomcat9
+systemctl status tomcat9
+systemctl status jenkins
